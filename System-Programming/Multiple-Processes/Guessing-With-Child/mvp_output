@@ -1,0 +1,60 @@
+From Child: Guessing 15
+From Child: Guess result is N
+From Child: I guessed wrong
+From Child: Guessing 8
+From Child: Guess result is N
+From Child: I guessed wrong
+From Child: Guessing 18
+From Child: Guess result is N
+From Child: I guessed wrong
+From Child: Guessing 5
+From Child: Guess result is N
+From Child: I guessed wrong
+From Child: Guessing 18
+From Child: Guess result is N
+From Child: I guessed wrong
+From Child: Guessing 17
+From Child: Guess result is N
+From Child: I guessed wrong
+From Child: Guessing 15
+From Child: Guess result is N
+From Child: I guessed wrong
+From Child: Guessing 11
+From Child: Guess result is N
+From Child: I guessed wrong
+From Child: Guessing 7
+From Child: Guess result is N
+From Child: I guessed wrong
+From Child: Guessing 7
+From Child: Guess result is N
+From Child: I guessed wrong
+From Child: Guessing 3
+From Child: Guess result is Y
+From Child: I guessed right
+From Child: Exiting...
+From Parent: Secret is 3
+From Parent: Guess # 1, Child guessed 15
+From Parent: Incorrect
+From Parent: Guess # 2, Child guessed 8
+From Parent: Incorrect
+From Parent: Guess # 3, Child guessed 18
+From Parent: Incorrect
+From Parent: Guess # 4, Child guessed 5
+From Parent: Incorrect
+From Parent: Guess # 5, Child guessed 18
+From Parent: Incorrect
+From Parent: Guess # 6, Child guessed 17
+From Parent: Incorrect
+From Parent: Guess # 7, Child guessed 15
+From Parent: Incorrect
+From Parent: Guess # 8, Child guessed 11
+From Parent: Incorrect
+From Parent: Guess # 9, Child guessed 7
+From Parent: Incorrect
+From Parent: Guess # 10, Child guessed 7
+From Parent: Incorrect
+From Parent: Guess # 11, Child guessed 3
+From Parent: Correct
+From Parent: Cleaning up
+From Parent: Exiting with Status:
+From Parent: Child: 0

@@ -5,7 +5,7 @@
 #include <sys/types.h>
 #include <sys/wait.h>
 
-#include "main.h"
+#include "mvp.h"
 
 int main() {
   int p_to_c[2]; // Parent to Child
