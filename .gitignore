@@ -3,3 +3,7 @@
 
 # Emacs Temporary Files
 *.*~
+
+# C compiled output
+a.out
+*/a.out
