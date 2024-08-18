@@ -4,6 +4,11 @@
 int main() {
   FILE* file = fopen("testfile", "r");
 
+  if (file == NULL) {
+    printf("Failure on opening file\n");
+    exit(1);
+  }
+
   char* line_read = NULL;
   size_t num_char_read;
 
